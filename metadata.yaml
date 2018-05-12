@@ -18,6 +18,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Paul_du_Chaillu
 description: Account of the author's travels in the European Arctic. Description of
   life and ways of Lapps.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22727#The-Land-of-the-Long-Night
 gutenberg_bookshelf: Children's Instructional Books
 gutenberg_issued: '2007-09-22'
 gutenberg_type: Text
